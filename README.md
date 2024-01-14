@@ -39,7 +39,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Usage
 
 - Customize your business card by editing React components in the src/components directory.
-- Leverage the utility classes provided by Tailwind CSS in src/styles/tailwind.css for styling.
+- Leverage the utility classes provided by Tailwind CSS for styling.
 - Start the development server:
   ```bash
   npm start
